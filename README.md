@@ -1,4 +1,4 @@
-## P1 - Big Data Analysis - Flight Data
+## Big Data Analysis - Flight Data
 
 ### Overview
 
